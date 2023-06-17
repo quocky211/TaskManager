@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    background-color: #f7f7f7;
+    padding: 0;
+}
+.topbar{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 30px 20px;
+}
+.topbar a{
+    text-decoration: none;
+    font-size: 18px;
+    margin: auto 0;
+}
+.main{
+    text-align: center;
+}
